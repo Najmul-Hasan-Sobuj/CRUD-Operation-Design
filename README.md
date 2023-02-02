@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/46526547/216421771-14ac500f-8f21-4370-857f-20e7d12819f1.png)
 ![image](https://user-images.githubusercontent.com/46526547/216421819-e69ba549-4d0f-4f95-a352-2de07e70eb36.png)
 
-## How to clone the repositorie to your local computer
+## Clone the repositorie to your local computer
 ```
 git clone https://github.com/Najmul-Hasan-Sobuj/CRUD-Operation-Design.git
 ```
